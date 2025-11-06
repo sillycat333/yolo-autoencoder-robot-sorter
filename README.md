@@ -41,12 +41,15 @@ This repo only includes the code to train the autoencoder and to run the integra
 #### Demonstrations
 
 - YOLO Detection Demo: uses open source EEZYbotARM Mk1 (3D printed)  
+
 https://github.com/sillycat333/yolo-autoencoder-robot-sorter/blob/main/assets/yolo.avi
 
 - Arm Robot Sorting Demo:  
+
 https://github.com/sillycat333/yolo-autoencoder-robot-sorter/blob/main/assets/robot.mp4
 
 - Screen Recording (Running Model):  
+
 https://github.com/sillycat333/yolo-autoencoder-robot-sorter/blob/main/assets/recording.mkv
 
 ---
