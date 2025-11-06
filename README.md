@@ -1,4 +1,4 @@
-# Convolutional Variational Autoencoder
+### Convolutional Variational Autoencoder
 
 This repo contains Python code to run an Autoencoder and YOLO model for my arm robot defect sorter project.
 
@@ -12,7 +12,7 @@ The basic workflow looks like this:
 
 ---
 
-## Main Files
+#### Main Files
 
 - `main.py` — Runs YOLO + Autoencoder and sends classification results to Arduino via serial communication.  
 - `main.ipynb` — Notebook for training the autoencoder model.  
@@ -24,7 +24,7 @@ The basic workflow looks like this:
 
 ---
 
-## Sample Data
+#### Sample Data
 
 You can test the model with the provided sample defect/non-defect containers in: assets/*_input.png
 
@@ -32,16 +32,16 @@ Run `test_saved.ipynb` to try it out.
 
 ---
 
-## Notes
+#### Notes
 
 This repo only includes the code to train the autoencoder and to run the integrated YOLO–Autoencoder–Serial system. It does not include YOLO training code or the dataset. If you need the dataset, please contact me by email.
 
 ---
 
-## Demonstrations
+#### Demonstrations
 
 - YOLO Detection Demo: uses open source EEZYbotARM Mk1 (3D printed)  
-  *(video)*  
+https://github.com/sillycat333/yolo-autoencoder-robot-sorter/blob/main/assets/robot.mp4
 
 - Arm Robot Sorting Demo:  
   *(video)*  
