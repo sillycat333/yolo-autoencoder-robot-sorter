@@ -1,6 +1,6 @@
 ### Convolutional Variational Autoencoder
 
-This repo contains Python code to run an Autoencoder and YOLO model for my arm robot defect sorter project ([Skripsi](github.com/sillycat333/skripsi)).
+This repo contains Python code to run an Autoencoder and YOLO model for my arm robot defect sorter project ([Skripsi](https://github.com/sillycat333/skripsi)).
 
 The basic workflow looks like this:
 
